@@ -7,7 +7,7 @@ FindingsOpened
   DW
   2ndMS
   SSP
-  ConsoleOnly
+  Console
   
     IssuesFound
     NoIssuesFound
